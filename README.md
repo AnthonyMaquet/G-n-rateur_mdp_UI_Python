@@ -1,4 +1,4 @@
-# G-n-rateur_mdp_UI_Python
+# Generateur_mdp_UI_Python
 Générateur de mot de passe sécurisé. 
 
 Le choix est laissé à l'utilisateur sur :  
